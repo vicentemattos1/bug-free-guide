@@ -1,0 +1,1 @@
+export interface DashboardResponse { "label": "pos" | "neg" | "neutral", "probability": { "pos": 0.7, "neg": 0.1, "neutral": 0.2 } }
